@@ -178,33 +178,7 @@ If LibreOffice is installed, the script automatically converts DOCX to PDF.
 2. File → Export as PDF
 3. Save to `generated_resumes/tailored_resume.pdf`
 
-## Troubleshooting
 
-### "CV file not found" or "JD file not found"
-- Make sure `cv.md` and `jd.txt` exist in the project root
-- Check file spelling and case sensitivity
-
-### API Key Error
-- Verify your NVIDIA API key is correct in `.env`
-- Check your API quota/credits at build.nvidia.com
-
-### DOCX file looks incorrect
-- The DOCX is generated from your extracted data
-- Check that the LLM extracted the right information
-- You can always edit the DOCX manually
-
-## Next Steps / Enhancements
-
-- [ ] Add multiple JD support (generate multiple tailored resumes)
-- [ ] Add resume templates for different industries
-- [ ] Implement ATS keyword scoring
-- [ ] Add cover letter generation
-- [ ] Create web UI for easy file uploads
-- [ ] Support for different file formats (DOCX, PDF input)
-
-## License
-
-MIT
 
 ## Author
 
