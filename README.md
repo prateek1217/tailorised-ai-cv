@@ -1,3 +1,5 @@
+<img width="3580" height="819" alt="langgraph_workflow" src="https://github.com/user-attachments/assets/9b5b03fd-07d6-45fc-93c5-73363fb4b57b" />
+
 # CVbyAI - ATS-Optimized Resume Generator
 
 A LangGraph-based AI agent that generates tailored, ATS-optimized resumes by analyzing your CV and job descriptions using the NVIDIA Nemotron LLM.
