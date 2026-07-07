@@ -1,0 +1,13 @@
+[project]
+name = "cvbyai"
+version = "0.1.0"
+description = "LangGraph-based AI agent for tailored ATS-optimized resume generation"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langgraph>=0.1.0",
+    "langchain>=0.1.0",
+    "openai>=1.0.0",
+    "python-docx>=0.8.11",
+    "python-dotenv>=1.0.0",
+]

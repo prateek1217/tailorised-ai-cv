@@ -1,0 +1,58 @@
+Job Title: Senior Software Engineer - Backend Systems
+
+Company: TechCorp Inc.
+
+Location: San Francisco, CA (Remote)
+
+About the Role:
+We are looking for an experienced Senior Software Engineer to join our Backend Systems team. You will work on designing and building scalable, high-performance distributed systems that power our platform serving millions of users worldwide.
+
+Key Responsibilities:
+- Design and implement scalable microservices architecture using Go and Python
+- Optimize database performance and implement caching strategies (Redis, PostgreSQL)
+- Develop and maintain CI/CD pipelines and infrastructure automation with Terraform
+- Collaborate with cross-functional teams to deliver high-impact features
+- Mentor junior engineers and conduct code reviews
+- Implement monitoring, logging, and observability solutions using industry-standard tools
+- Troubleshoot production issues and implement long-term solutions
+- Participate in architectural decisions for cloud-native systems
+
+Required Qualifications:
+- 4+ years of software engineering experience
+- Strong proficiency in Go, Python, or similar backend languages
+- Experience with Kubernetes, Docker, and containerization
+- Deep understanding of microservices architecture and system design
+- Proficiency with SQL and NoSQL databases (PostgreSQL, MongoDB)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Strong knowledge of distributed systems and concurrency
+- Excellent problem-solving and communication skills
+
+Preferred Qualifications:
+- Experience with LLM systems and AI/ML integration
+- Knowledge of message queues (Kafka, RabbitMQ)
+- Experience with infrastructure-as-code (Terraform, CloudFormation)
+- DevOps and CI/CD pipeline experience
+- Competitive programming or algorithmic problem-solving background
+- Open source contributions
+- Experience building real-time systems
+
+Technical Skills We Value:
+- Golang/Python backend development
+- Kubernetes and container orchestration
+- System design and scalability
+- API design and RESTful services
+- Database optimization
+- Cloud infrastructure and DevOps
+- Problem-solving under pressure
+
+What We Offer:
+- Competitive salary: $200k - $280k annually
+- Equity package
+- Comprehensive health insurance
+- Remote work flexibility
+- Learning and development budget
+- Collaborative team environment
+- Impact on millions of users globally
+
+Company Culture:
+We believe in engineering excellence, continuous learning, and building products that matter. Our team values collaboration, innovation, and pushing technical boundaries.
