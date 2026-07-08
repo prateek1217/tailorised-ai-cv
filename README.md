@@ -2,7 +2,7 @@
 
 # CVbyAI - ATS-Optimized Resume Generator
 
-A LangGraph-based AI agent that generates tailored, ATS-optimized resumes by analyzing your CV and job descriptions using the NVIDIA Nemotron LLM.
+A LangGraph-based AI agent that generates tailored, ATS-optimized resumes by analyzing your CV and job descriptions using the LLM.
 
 **New Approach (Option 3):** Generates Word documents (.docx) with your exact resume design, then converts to PDF.
 
